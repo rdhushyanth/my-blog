@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://upbeat-austin-7398d9.netlify.com/* http://www.dhushyanth.com/:splat 301!
