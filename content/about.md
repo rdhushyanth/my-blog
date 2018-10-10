@@ -37,7 +37,6 @@ Things I am proud of:
 
 Things I am not proud of:
 
-- Procrastination
 - Not blogging enough
 
 
